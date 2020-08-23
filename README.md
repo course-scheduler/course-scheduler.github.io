@@ -3,6 +3,6 @@ This website is written in React JS. The GUI elements include a progress bar, a 
 The upload function continually updates the progress bar to show how much of the file has been uploaded. After the file is completed or an error is encountered, the website sends an alert telling the user what happened. 
 
 
-
+Please do not try to upload any files because the Firebase storage bucket is currently closed.
 
 Website written by: https://github.com/Anonymoustank
